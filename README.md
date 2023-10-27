@@ -13,6 +13,19 @@
 * 특정 개발 방법론(RUP, 촉매 작용, UML 구성 요소 등)에 대한 프로필
 * 특정 도메인(EAI, CRM, SCM, ERP 등)에 대한 프로필
 
+### 개발 환경
+* starUML
+
+### 다이어그램 구현
+* State Diagram
+* Activity Diagram
+* Communication Diagram
+* Component Diagram
+* ERD
+* Deployment Diagram
+* Package Diagram
+
+
 <br>
 <br>
 내용 참고 : https://docs.staruml.io/user-guide/basic-concepts
